@@ -1,0 +1,109 @@
+-- Made by Jxnt#9946
+-- I don't give permission to put this into any other GUI except the new Ninja Haxx because they technically made this first lol
+
+
+
+local gamepasses = {7235693}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "Faster Sword"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7235671}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "x2 Ninjitsu"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7235680}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "x2 Speed"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7235685}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "x2 Damage"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7235688}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "x2 Health"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7235698}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "Infinite Ninjitsu"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7361190}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "+20 Capacity"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7361206}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "+60 Capacity"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7361232}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "+4 Pet Slots"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7442984}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "Infinite Ammo"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7504500}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "+100 Capacity"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7557569}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "+200 Capacity"
+OwO.Value = tostring(v)
+end
+end
+local gamepasses = {7557657}
+for _,v in next, gamepasses do
+if not game.Players.LocalPlayer:FindFirstChild(tostring(v)) then
+local OwO = Instance.new("BoolValue", game.Players.LocalPlayer.ownedGamepasses)
+OwO.Name = "+2 Pet Slots"
+OwO.Value = tostring(v)
+end
+end

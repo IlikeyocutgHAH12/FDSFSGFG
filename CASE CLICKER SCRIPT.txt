@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Castilio29/Case-Clicker/main/Case%20Clicker%20Script"))()
